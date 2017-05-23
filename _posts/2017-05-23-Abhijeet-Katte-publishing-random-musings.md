@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abhijeet Katte, Github Page "
+title: "Abhijeet Katte, Random Musings "
 date: 2017-05-23
 ---
 
