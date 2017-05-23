@@ -1,2 +1,3 @@
 name: Abhijeet Katte, struggling data scientist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
