@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abhijeet Katte, Random Musings "
+title: " Biology meets theory and math "
 date: 2017-05-23
 ---
 
