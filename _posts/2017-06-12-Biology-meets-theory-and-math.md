@@ -1,7 +1,7 @@
 ---
 layout: post
-title: " Biology meets theory and math "
-date: 2017-05-23
+title: " Biology Meets Theory and Math "
+date: 2017-06-12
 ---
 
 I believe that mathematics (including computer science and statitics) are very important for understanding biological systems. The complexity of biological systems is extraordinary and researching into the fundamental laws in such a complex field is a very difficult task. Through my experience in data science I have a firm belief that mathematics is a basic tool of understanding a system or its behaviour under various circumstances. If we consider the living organism as a complex system (or a living machine) we can leverage many methods and tools developed in mathematics and allied sciences to understand it through various ways.
