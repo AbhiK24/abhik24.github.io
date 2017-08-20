@@ -4,12 +4,18 @@ title: " Books I have read till date (As far as I can remember), excluding textb
 date: 2017-08-20
 ---
 
-Gödel, Escher, Bach: An Eternal Golden Braid, also known as GEB, by Douglas Hofstadter. "\n"
-The World Is Flat: A Brief History of the Twenty-first Century, by Thomas L. Friedman. "\n"
-The Undercover Economist, by Tim Harford
+Gödel, Escher, Bach: An Eternal Golden Braid, also known as GEB, by Douglas Hofstadter. 
+
+The World Is Flat: A Brief History of the Twenty-first Century, by Thomas L. Friedman. 
+
+The Undercover Economist, by Tim Harford.
+
 Dreams from My Father: A Story of Race and Inheritance, by Barack Obama.
+
 The Audacity of Hope: Thoughts on Reclaiming the American Dream, by Barack Obama.
-The Man Who Mistook His Wife for a Hat and Other Clinical Tales, by neurologist Oliver Sacks
+
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales, by neurologist Oliver Sacks.
+
 NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior 1st Edition, by Eliezer Sternberg
 MRUTUNJAY (Marathi), by SHIVAJI SAWANT.
 Amcha Baap an Amhi (Marathi), by Narendra Jadhav.
