@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abhijeet Katte, Books I have read till date (As far as I can remember), excluding textbooks ofcourse "
+title: " Books I have read till date (As far as I can remember), excluding textbooks ofcourse "
 date: 2017-08-20
 ---
 
