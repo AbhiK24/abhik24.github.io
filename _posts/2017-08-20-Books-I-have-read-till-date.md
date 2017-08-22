@@ -39,3 +39,21 @@ The problem of the rupee : its origin and its solution., by Dr.B.R. Ambedkar.
 Thinking in Systems: a Primer, by Donella H. Meadows. 
 
 Gitanjali Song Offerings: A Collection of Prose Translations, by Rabindranath Tagore.
+
+El Alamein: The Battle that Turned the Tide of the Second World War 2, by Bryn Hammond 
+
+Mein Kampf, by Adolf Hitler
+
+The Diary of a Young Girl, by Anne Frank
+
+A Midsummer Night's Dream, Play by William Shakespeare
+
+Hamlet, Play by William Shakespeare
+
+Merchant of Venice, Play by William Shakespeare
+
+Gaban (Hindi), by Munshi Premchand
+
+The Complete Sherlock Holmes by Arthur Conan Doyle 
+
+Way of the Peaceful Warrior, by Dan Millman
