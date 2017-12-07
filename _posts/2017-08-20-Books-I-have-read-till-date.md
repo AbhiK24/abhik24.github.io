@@ -60,4 +60,4 @@ Way of the Peaceful Warrior, by Dan Millman
 
 Badami.Aihole.Pattadakal by George Michell
 
-Pinciples, by Ray Dalio
+Principles, by Ray Dalio
