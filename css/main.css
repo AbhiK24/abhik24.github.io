@@ -3,7 +3,7 @@ body {
     width: 60%;
 }
 nav ul, footer ul {
-    font-family: "Myriad Pro", "Helvetica Neue", "Helvetica";
+    font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,7 +24,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p { 
-    font-family: "Myriad Pro", "Helvetica Neue", "Helvetica";
+    font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
     font-size: 1em;
     line-height: 1.1em;
     color: #333;
