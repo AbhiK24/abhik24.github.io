@@ -35,6 +35,9 @@ Getting degrees for degree's sake is always a sign of two things:
 When it comes to careers after college, there is also weird myopia among the smartest people. In my opinion, the smartest people should at least at some point in their lives do things that otherwise would not happen. That is to say, smart people need to be courageous. A simple and potent example is of Elon Musk. Without him, we would not be dreaming of Mars. There is so much progress enabled by human beings working at their full potential. We need individuals who are less sensitive to social cues. One of my favorite Thiel saying is, “If you're less sensitive to social cues, you're less likely to do the same things as everyone else around you.”
 
 "The best minds of my generation are thinking about how to make people click ads.” Students getting out of college should take a moment to examine if it makes any sense to be a small cog in a big wheel. That job at Amazon and Google has taken away the best minds that could have worked one of our most pressing problems.  Do you want to be in a place where anyone can replace you? Find a problem worth solving, find your calling and dedicate yourselves to it. 
+
+
 Anyone and everyone who thinks they are smart should focus all their energies on taking actions that nobody else would take, creating companies nobody else would dare to create, writing poems and stories that will not be written and asking questions that will not be asked. 
+
 [PS: Even I should take my own advice.]
 
