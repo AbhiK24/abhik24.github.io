@@ -42,3 +42,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+ul.vertical-menu li{
+    list-style: none;
+}
