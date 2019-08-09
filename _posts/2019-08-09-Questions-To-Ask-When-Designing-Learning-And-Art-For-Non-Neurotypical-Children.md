@@ -3,6 +3,7 @@ layout: post
 title: " Questions To Ask When Designing Learning And Art For Non-Neurotypical Children "
 date: 2019-08-09
 ---
+![Everyone is special](https://www.indianfolk.com/wp-content/uploads/2017/11/india-country-top.jpg)
 
 These are the questions discussed at a meeting of educationists, artists, theatre professionals and other professionals who gathered to think about ways we can design art and education for non-neurotypical children. I will update this blog as we find more ideas and references.
 
