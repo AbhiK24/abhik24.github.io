@@ -90,3 +90,9 @@ body {
 .post + .post {
   margin-top: 50px;
 }
+
+ul.vertical-menu li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
