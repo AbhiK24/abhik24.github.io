@@ -4,6 +4,8 @@ title: " Books I have read till date (As far as I can remember), excluding textb
 date: 2017-08-20
 ---
 
+Note: This is an incomplete list and I have mostly given up updating this. Please write to abhi.katte@gmail.com if you would like to know what I am reading now.
+
 Gödel, Escher, Bach: An Eternal Golden Braid, also known as GEB, by Douglas Hofstadter. 
 
 The World Is Flat: A Brief History of the Twenty-first Century, by Thomas L. Friedman. 
