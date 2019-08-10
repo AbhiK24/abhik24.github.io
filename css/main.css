@@ -49,3 +49,7 @@ ul.vertical-menu li{
     margin: 0;
     padding: 0;
 }
+
+.vertical-menu{
+float: right;
+}
