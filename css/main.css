@@ -1,6 +1,8 @@
 body {
-    margin: 60px auto;
-    width: 60%;
+    margin: auto;
+    width: 100;
+    margin-top: 100px;
+    margin-left: 150px;
 }
 nav ul, footer ul {
     font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
