@@ -50,6 +50,10 @@ ul.vertical-menu li{
     padding: 0;
 }
 
-.vertical-menu{
+.vertical-menu {
+float: right;
+}
+
+#vertical-menu {
 float: right;
 }
