@@ -55,8 +55,11 @@ ul.vertical-menu li{
 .vertical-menu {
 float: right;
 margin-right: 30px;
-
 }
 
+.container{
+float: left;
+margin-right: 30px;
 
+}
 
