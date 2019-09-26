@@ -30,6 +30,8 @@ p {
     font-size: 1em;
     line-height: 1.1em;
     color: #333;
+    text-align: center;
+
 }
 footer {
     border-top: 1px solid #d5d5d5;
