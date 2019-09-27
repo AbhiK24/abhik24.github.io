@@ -66,3 +66,5 @@ So are a few probable scenarios:
 2. If there is an effort to reign in companies and startups in a premature manner there is an eventuality that would involve heavy regulations and monitoring on many other aspects of our lives.
 In either case, it is sure that the ghost Of Karl Marx is smiling.
 
+
+This article was originally published on [Analytics India Magazine](https://analyticsindiamag.com/ai-and-capitalism-why-the-ghost-of-marx-may-be-secretly-smiling/)
