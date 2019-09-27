@@ -44,4 +44,4 @@ This will be a case because machines are more rational than humans. An absence o
 
 This hypothesis or a scenario arises when intelligent agents augment or take over markets and become primary traders in the markets. But in the present situation, where AI agents are slowly being used as tools by humans to expand their information base or assist them in trades the exact effect of AI remains to be studied in detail.
 
-PS: This article was originally published on [YourStory] (https://yourstory.com/2018/01/lemons-artificial-intelligence-markets)
+PS: This article was originally published on [YourStory](https://yourstory.com/2018/01/lemons-artificial-intelligence-markets)
