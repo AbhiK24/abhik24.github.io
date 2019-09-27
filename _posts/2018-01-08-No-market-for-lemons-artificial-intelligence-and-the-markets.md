@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No market for lemons: artificial intelligence and the markets"
+title: "No Market For Lemons: Artificial Intelligence And The Markets"
 date: 2018-01-08
 ---
 
