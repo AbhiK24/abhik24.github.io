@@ -24,7 +24,9 @@ Over bearing, irrational and blind belief in a structure is a symptom of humanit
 
 For this essay though, I want to turn your attention to the other institution. Schools and universities in our country are corrupted and the public belief in these institutions is blind and superstitious. Similar to the death of God, there will come a time when these institutions in their current form will vanish. 
 
-Let us talk data. When you go over the data available at Annual Status of Education Report (ASER) (2015), you find that Maharashtra is one of the better performing states in India when it comes to primary education. Even then, in Maharashtra only 1 out of 2 children in Std III can read at least a Std I level text. The situation does not change for the percentage of children in Std V who can read a Std II level text. Maharashtra really disappoints when it comes to mathematics. Only around 19% of children in Std III can do at least subtraction. 
+Let us talk data. When you go over the data available at Annual Status of Education Report (ASER) (2015),[Annual Status of Education Report (ASER) (2015)](http://img.asercentre.org/docs/Publications/ASER%20Reports/ASER%20TOT/fullasertrendsovertimereport.pdf)
+
+ you find that Maharashtra is one of the better performing states in India when it comes to primary education. Even then, in Maharashtra only 1 out of 2 children in Std III can read at least a Std I level text. The situation does not change for the percentage of children in Std V who can read a Std II level text. Maharashtra really disappoints when it comes to mathematics. Only around 19% of children in Std III can do at least subtraction. 
 
 Only 50% of the Std Vth students could read English words and only around 21% of children could read English sentences. This number barely increases a little as only 40% of Std VII students can read full English sentences. Additionally, data from Reserve Bank of India’s Database on Indian Economy (DBIE) tells us that the expenditure of education dropped from around 22% of total expenditure in 2000 to only around 18% in 2016. 
 
