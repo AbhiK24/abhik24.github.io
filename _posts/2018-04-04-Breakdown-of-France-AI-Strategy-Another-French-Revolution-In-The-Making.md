@@ -53,3 +53,5 @@ The policy document suggests that Artificial intelligence must not become a new 
 The strategy paper states that educational efforts on equality and digital technology are obviously vital. The panel suggests designing incentive policy aimed at achieving 40% of female students in digital subject areas in universities, business schools and their preparatory classes out to 2020.
 
 The policy proposes to build an automated system to help manage administrative formalities, aimed at improving public awareness of administrative regulations of artificial intelligence and how they apply to each individual’s personal situation. This will lead to digital mediation and social innovations of AI and lead to benefits for all.
+
+This article was originally published in [Analytics India Magazine](https://analyticsindiamag.com/breakdown-of-frances-ai-strategy/)
