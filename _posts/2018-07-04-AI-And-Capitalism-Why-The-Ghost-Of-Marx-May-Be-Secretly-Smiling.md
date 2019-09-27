@@ -25,10 +25,10 @@ Discussions have been going on ad nauseam about whether AI is good or bad for hu
 
 Let us imagine that this is the case. There could be a play-by-play for the same:
 
-⋅⋅1. AI leads to unemployment
-⋅⋅1. Unrest in the country
-⋅⋅1. Government provides basic income, minimum wage with makework jobs to citizens
-⋅⋅1. Similar welfare schemes would be announced to compensate for the lack of amenities
++ AI leads to unemployment
++ Unrest in the country
++ Government provides basic income, minimum wage with makework jobs to citizens
++ Similar welfare schemes would be announced to compensate for the lack of amenities
 
 In this scenario, how would the Government finance the welfare schemes on such a scale where a percentage of the population will be dependent on government assistance? The obvious answer is this —  increased taxation on income and consumption. This will obviously take a toll on the working economy and savings.
 
@@ -52,9 +52,9 @@ Part of the reason for the rise of this discussion is the nature in which some o
 
 The nature of these companies where they are largely responsible only to the shareholders and not to the public, in general, is surely a problem. There are a few solutions to the problem:
 
-⋅⋅1. The first solution includes looking at data as labour. Today’s AI boom is largely driven by data gathered from users and leveraging them to build intelligent products that help drive profits. Experts believe that in such a case, data should be seen as labour and payments regarding that labour should be made to the users. How the implementations would work is still not clear but guaranteed to be clunky.
++ The first solution includes looking at data as labour. Today’s AI boom is largely driven by data gathered from users and leveraging them to build intelligent products that help drive profits. Experts believe that in such a case, data should be seen as labour and payments regarding that labour should be made to the users. How the implementations would work is still not clear but guaranteed to be clunky.
 
-⋅⋅1. The governments can form a sovereign wealth fund (like Norway), and use it to buy shares of multinational and deep technology companies to keep them in control.
++ The governments can form a sovereign wealth fund (like Norway), and use it to buy shares of multinational and deep technology companies to keep them in control.
 The popularity of this option here in India is unquestionable. We did this in 1969 when the (then) Prime Minister Indira Gandhi moved to nationalise banks.
 
 However, as AI becomes a part of every conversation and every move that we make, it becomes obvious that some of the actions of companies have to be regulated.
