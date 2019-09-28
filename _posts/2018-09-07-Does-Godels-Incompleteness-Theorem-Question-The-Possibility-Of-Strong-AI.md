@@ -10,7 +10,7 @@ Mathematicians and computer scientists all agree that Gödel’s Incompleteness 
 
 ### Inside Godel’s Incompleteness Theorem
 
-[Godel's Incompleteness Theorem](https://github.com/AbhiK24/abhik24.github.io/blob/master/godel-image1.jpg "Godel's Incompleteness Theorem")
+![Godel's Incompleteness Theorem](https://github.com/AbhiK24/abhik24.github.io/blob/master/godel-image1.jpg "Godel's Incompleteness Theorem")
 
 Godel’s Incompleteness theorem says that, “all consistent axiomatic formulations of number theory include undecidable propositions.” In simpler mathematical terms, Godel’s Incompleteness Theorem says that any consistent formal system which can do even simple arithmetic is incomplete meaning there are true statements in the realm of number theory which can not be derived from the axioms of the formal system. This means that some statements even if they are true are not theorems of the formal system. There are several terminologies here like consistency, completeness, formal system and theorem which we should define to make a connection to AI and think deeply how Godel’s incompleteness theorem could implicate in Artificial intelligence.
 
