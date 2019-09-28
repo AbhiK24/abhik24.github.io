@@ -43,4 +43,9 @@ One of the strongest argument against Lucas’ argument is the Penrose Argument 
  
 ### Conclusion
 
-If a formal system F [promised](https://www.analyticsindiamag.com/a-requiem-for-alan-turing/) to frame or copy human thought, it is not always the case that today’s system can be framed as the traditional formal system. There are many problems with the Lucas’ argument particularly in the assumption that humans can see all kinds of [truths.](https://www.analyticsindiamag.com/social-sciences-contribute-to-ethical-ai/)
+If a formal system F [promised](https://www.analyticsindiamag.com/a-requiem-for-alan-turing/) to frame or copy human thought, it is not always the case that today’s system can be framed as the traditional formal system. There are many problems with the Lucas’ argument particularly in the assumption that humans can see all kinds of truths.
+
+This article was originally published at [Analytics India Magazine.](https://analyticsindiamag.com/does-godels-incompleteness-theorem-question-the-possibility-of-strong-ai/)
+
+
+
