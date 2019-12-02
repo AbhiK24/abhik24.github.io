@@ -3,6 +3,8 @@ layout: post
 title: "God, Markets, And Fast Social Mobility"
 date: 2019-09-26
 ---
+![God, Markets and Fast Social Mobility](https://www.advisoryexcellence.com/wp-content/uploads/2018/07/Social-Mob-PHOTO.jpg)
+
 
 “God is dead. God remains dead. And we have killed him. .. ” said Nietzsche in the 19th century. Many commentators and public in general, mistake this to be a celebration. A celebration of the fact that humans do not need God and humans have now killed Him. This is just reading Nietzsche out of context. Nietzsche in fact goes onto indicate (through the mad man) that the world might have lost a (moral) compass. And that now we do not know what is up from down, is it morning or is it evening? (metaphorically speaking).
 
