@@ -5,3 +5,5 @@ permalink: /blog/:year/:month/:day/:title
 layout: default
 comments: true
 ---
+
+theme: jekyll-theme-slate
