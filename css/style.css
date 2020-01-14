@@ -3,7 +3,7 @@ body {
   font-size: 13px;
 }
 
-#menu {
+#vertical-menu {
   float: right;
   margin-top: 20px;
   padding; 0;
@@ -12,19 +12,19 @@ body {
   font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
 }
 
-#menu .title {
+#vertical-menu .title {
 }
 
-#menu ul {
+#vertical-menu ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-#menu li {
+#vertical-menu li {
 }
 
-#menu li a {
+#vertical-menu li a {
   display: inline-block;
   color: #0864c7;
 }
