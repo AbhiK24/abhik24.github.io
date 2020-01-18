@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Great Fortune Of Being A CEO"
+title: "Great Fortune Of Being A Founder"
 date: 2020-01-13
 ---
 
