@@ -19,7 +19,7 @@ As a boy reading Taledanda at a young age, I connected with Karnad in a way I fi
 Girish Karnad, me and million like us are a recipe of similar ingredient that is so underrated in today’s society. Here are some ways I feel connected to Karnad. 
 
 
- ## Multilingualism
+ ### Multilingualism
 
 The simple luck of growing up in a multilingual family and surrounding. From what I know best, Karnad grew up in a Konkani speaking family, was schooled in Marathi and grew up in Sirsi and Dharwad where he also learned Kannada. He even said it came as a big advantage to him as he knew multiple languages and cultures. I imagine he could just plug into cultures, the theatre of both cultures.
 
@@ -30,7 +30,7 @@ Malli in this brilliant Newslaundry article writes, “Three out of Kannada’s 
 We should let more Indians which languages they want to learn and live in, rather than enforcing languages that were deemed fit by some in power. (Be rest assured, the irony of me writing this in English is not lost on me.)
 
 
-## Healthy dose of Dr. Bendre
+### Healthy Dose of Dr. Bendre
 
 Karnad was more fortunate that he had a close relationship with Bendre. One can only imagine the conversations of two great minds. Bendre himself spoke Kannada and Marathi. I grew up on “Banthanna Sanna Somavara, Kanabekanna Someswara” and many of his poems that still form a central part of my poetic aesthetics. Bendre, I think, is one of the greatest poet ever. You can read English translations of Bendre here. (highly recommended website for Bendre lovers)
 
@@ -42,7 +42,7 @@ The connection and the cultural mixture of Marathi, Kannada, North Karnataka, bo
 Somewhat related: Ramchandra Guha has written an excellent essay on the bilingual intellectual tradition in India. It is an excellent commentary. Click here to access it.
 
 
-## Banthanna Sanna Somavara, Kanabekanna Someswara (The festival  Of Sanna Somwara (Small Monday) has come, and we must now see Someshwara (Shiva) ) - Dr. Bendre
+### Banthanna Sanna Somavara, Kanabekanna Someswara (The festival  Of Sanna Somwara (Small Monday) has come, and we must now see Someshwara (Shiva) ) - Dr. Bendre
 
 Karnad has spent an important part of his childhood near Someswara temple in Dharwad. 
 In a documentary, he even referred to the days spent in Someswara temple as, “unforgettable moments of my life.”  I had the divine fortune of growing up near the Vitthal Mandir in Pandharpur, and then Siddheshwara temple in Solapur.  I do not want to draw a religious connection here. But as a child, growing up in the realm of “divinity” or “perceived divinity”, according to me is a large positive for any child. There are some related thoughts, but I would not like to expand them here. 
@@ -50,7 +50,7 @@ In a documentary, he even referred to the days spent in Someswara temple as, “
 PS: Karnad indentified himself as a Nastika (according to Indian Vedic scriptures) but not an atheist. 
 
 
-## Many such small and big connections such as having a father who is transferred every now and then to a new place. There are many such connections but at this point I feel the number of people reading this essay will be less than 2, so I would stop.
+### Many such small and big connections such as having a father who is transferred every now and then to a new place. There are many such connections but at this point I feel the number of people reading this essay will be less than 2, so I would stop.
 
 ----
 
