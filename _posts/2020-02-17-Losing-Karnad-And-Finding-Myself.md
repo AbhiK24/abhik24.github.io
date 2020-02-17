@@ -18,9 +18,7 @@ As a boy reading Taledanda at a young age, I connected with Karnad in a way I fi
 
 Girish Karnad, me and million like us are a recipe of similar ingredient that is so underrated in today’s society. Here are some ways I feel connected to Karnad. 
 
-
- ### Multilingualism
-
+### Multilingualism
 The simple luck of growing up in a multilingual family and surrounding. From what I know best, Karnad grew up in a Konkani speaking family, was schooled in Marathi and grew up in Sirsi and Dharwad where he also learned Kannada. He even said it came as a big advantage to him as he knew multiple languages and cultures. I imagine he could just plug into cultures, the theatre of both cultures.
 
 I grew up speaking Marathi and Kannada (specifically North Karnataka dialect). The sheer delight of being able to watch films, plays and cultures in two or more languages is a superpower if you are a an avid lover of arts and all things related. How I crave I had an aunt who teaches me Tamil and I can read “Thirukkural” for myself. 
