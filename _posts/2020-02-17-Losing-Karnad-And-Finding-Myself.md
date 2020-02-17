@@ -5,7 +5,7 @@ date: 2020-02-17
 ---
 Or Karnad, My Large Mirror 
 
-![Girish Karnad](https://images.edexlive.com/uploads/user/imagelibrary/2019/6/10/original/KARJUL015_11-08-207_20_19_54.jpg)
+![Girish Karnad](https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/GirishKarnad.jpeg?itok=CHflQHzT)
 
 
 Girish Karnad the great Indian playwright, filmmaker and poet passed away on June 10, 2019 at his Bengaluru house. Losing Karnad has been an event in my life for which I was unprepared. I was not unprepared in the way that I would not be able to cope with the emotion of not having him alive, but in the way that I did not know he meant so much to me. I am writing this now after getting a chance to reflect on what it means for me and how this great man will always be a part of me.
