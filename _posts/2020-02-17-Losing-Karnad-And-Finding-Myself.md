@@ -35,7 +35,7 @@ We should let more Indians which languages they want to learn and live in, rathe
 Karnad was more fortunate that he had a close relationship with Bendre. One can only imagine the conversations of two great minds. Bendre himself spoke Kannada and Marathi. I grew up on “Banthanna Sanna Somavara, Kanabekanna Someswara” and many of his poems that still form a central part of my poetic aesthetics. Bendre, I think, is one of the greatest poet ever. You can read English translations of Bendre here. (highly recommended website for Bendre lovers)
 
 
-## North Karnataka - Maharashtra connection
+### North Karnataka - Maharashtra connection
 
 The connection and the cultural mixture of Marathi, Kannada, North Karnataka, border states of South Maharashtra, is a beautiful mystery and open opera that I can not even start to put in words. There is so much give and take between the people, the Gods, the food that it remains a wonderful delight to me. Both Karnad and me grew up in this region and had same local influences. Karnad grew up watching the plays of Bal Gadharva, Lavanis of Maharashtra on one hand and the myths and lores of Yakshaganas on other hand. I grew up in somewhat similar milieu. This connection was fully visible when Karnad translated plays of Tendulkar and Elkunchwar.
 
