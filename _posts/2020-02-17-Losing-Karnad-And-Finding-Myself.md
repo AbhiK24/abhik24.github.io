@@ -47,9 +47,9 @@ Somewhat related: Ramchandra Guha has written an excellent essay on the bilingua
 ### Banthanna Sanna Somavara, Kanabekanna Someswara (The festival  Of Sanna Somwara (Small Monday) has come, and we must now see Someshwara (Shiva) ) - Dr. Bendre
 
 Karnad has spent an important part of his childhood near Someswara temple in Dharwad. 
-In a documentary, he even [referred](https://www.youtube.com/watch?v=QrZbHcq3ohg) to the days spent in Someswara temple as, “unforgettable moments of my life.”  I had the divine fortune of growing up near the [Vitthal Mandir](https://en.wikipedia.org/wiki/Vithoba_Temple) in Pandharpur, and then [Siddheshwara temple](https://en.wikipedia.org/wiki/Siddheshwar_temple,_Solapur) in Solapur.  I do not want to draw a religious connection here. But as a child, growing up in the realm of “divinity” or “perceived divinity”, according to me is a large positive for any child. There are some related thoughts, but I would not like to expand them here. 
+In a documentary, he even [referred](https://www.youtube.com/watch?v=QrZbHcq3ohg) to the days spent in Someswara temple as, “unforgettable moments of my life.”*  I had the divine fortune of growing up near the [Vitthal Mandir](https://en.wikipedia.org/wiki/Vithoba_Temple) in Pandharpur, and then [Siddheshwara temple](https://en.wikipedia.org/wiki/Siddheshwar_temple,_Solapur) in Solapur.  I do not want to draw a religious connection here. But as a child, growing up in the realm of “divinity” or “perceived divinity”, according to me is a large positive for any child. There are some related thoughts, but I would not like to expand them here. 
 
-PS: Karnad indentified himself as a Nastika (according to Indian Vedic scriptures) but not an atheist. 
+*Karnad indentified himself as a Nastika (according to Indian Vedic scriptures) but not an atheist. 
 
 
 ### Many such small and big connections such as having a father who is transferred every now and then to a new place. There are many such connections but at this point I feel the number of people reading this essay will be less than 2, so I would stop.
