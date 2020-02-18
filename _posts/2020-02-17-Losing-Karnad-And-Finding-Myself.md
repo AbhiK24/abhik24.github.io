@@ -27,27 +27,27 @@ The simple luck of growing up in a multilingual family and surrounding. From wha
 
 I grew up speaking Marathi and Kannada (specifically North Karnataka dialect). The sheer delight of being able to watch films, plays and cultures in two or more languages is a superpower if you are a an avid lover of arts and all things related. How I crave I had an aunt who teaches me Tamil and I can read “Thirukkural” for myself. 
 
-Malli in this brilliant Newslaundry article writes, “Three out of Kannada’s eight Jnanpith awardees, including Karnad, spoke a language other than Kannada at home.” The ability to think in multiple languages and cultures is so important in days when we live in constant fear of isolation, either enforced by ourselves or through an authority from the centre. 
+Malli in this brilliant Newslaundry article [writes](https://www.newslaundry.com/2019/06/15/girish-karnad-and-the-death-of-literary-multilingual-heritage), “Three out of Kannada’s eight Jnanpith awardees, including Karnad, spoke a language other than Kannada at home.” The ability to think in multiple languages and cultures is so important in days when we live in constant fear of isolation, either enforced by ourselves or through an authority from the centre. 
 
 We should let more Indians which languages they want to learn and live in, rather than enforcing languages that were deemed fit by some in power. (Be rest assured, the irony of me writing this in English is not lost on me.)
 
 
 ### Healthy Dose of Dr. Bendre
 
-Karnad was more fortunate that he had a close relationship with Bendre. One can only imagine the conversations of two great minds. Bendre himself spoke Kannada and Marathi. I grew up on “Banthanna Sanna Somavara, Kanabekanna Someswara” and many of his poems that still form a central part of my poetic aesthetics. Bendre, I think, is one of the greatest poet ever. You can read English translations of Bendre here. (highly recommended website for Bendre lovers)
+Karnad was more fortunate that he had a close relationship with Bendre. One can only imagine the conversations of two great minds. Bendre himself spoke Kannada and Marathi. I grew up on “Banthanna Sanna Somavara, Kanabekanna Someswara” and many of his poems that still form a central part of my poetic aesthetics. Bendre, I think, is one of the greatest poet ever. You can read English translations of Bendre [here](https://darabendreinenglish.com/tag/bendre-in-english/). (highly recommended website for Bendre lovers)
 
 
 ### North Karnataka - Maharashtra connection
 
 The connection and the cultural mixture of Marathi, Kannada, North Karnataka, border states of South Maharashtra, is a beautiful mystery and open opera that I can not even start to put in words. There is so much give and take between the people, the Gods, the food that it remains a wonderful delight to me. Both Karnad and me grew up in this region and had same local influences. Karnad grew up watching the plays of Bal Gadharva, Lavanis of Maharashtra on one hand and the myths and lores of Yakshaganas on other hand. I grew up in somewhat similar milieu. This connection was fully visible when Karnad translated plays of Tendulkar and Elkunchwar.
 
-Somewhat related: Ramchandra Guha has written an excellent essay on the bilingual intellectual tradition in India. It is an excellent commentary. Click here to access it.
+Somewhat related: Ramchandra Guha has written an excellent essay on the bilingual intellectual tradition in India. It is an excellent commentary. Click [here](https://casi.sas.upenn.edu/sites/default/files/iit/The%20Rise%20and%20Fall%20of%20the%20Bilingual%20Intellectual%20-%20AV.pdf) to access it.
 
 
 ### Banthanna Sanna Somavara, Kanabekanna Someswara (The festival  Of Sanna Somwara (Small Monday) has come, and we must now see Someshwara (Shiva) ) - Dr. Bendre
 
 Karnad has spent an important part of his childhood near Someswara temple in Dharwad. 
-In a documentary, he even referred to the days spent in Someswara temple as, “unforgettable moments of my life.”  I had the divine fortune of growing up near the Vitthal Mandir in Pandharpur, and then Siddheshwara temple in Solapur.  I do not want to draw a religious connection here. But as a child, growing up in the realm of “divinity” or “perceived divinity”, according to me is a large positive for any child. There are some related thoughts, but I would not like to expand them here. 
+In a documentary, he even [referred](https://www.youtube.com/watch?v=QrZbHcq3ohg) to the days spent in Someswara temple as, “unforgettable moments of my life.”  I had the divine fortune of growing up near the [Vitthal Mandir](https://en.wikipedia.org/wiki/Vithoba_Temple) in Pandharpur, and then [Siddheshwara temple](https://en.wikipedia.org/wiki/Siddheshwar_temple,_Solapur) in Solapur.  I do not want to draw a religious connection here. But as a child, growing up in the realm of “divinity” or “perceived divinity”, according to me is a large positive for any child. There are some related thoughts, but I would not like to expand them here. 
 
 PS: Karnad indentified himself as a Nastika (according to Indian Vedic scriptures) but not an atheist. 
 
@@ -56,7 +56,7 @@ PS: Karnad indentified himself as a Nastika (according to Indian Vedic scripture
 
 ----
 
-Alok Rai speaks brilliantly about Karnad when he says, “Karnad’s monstrous creativity was fuelled by the fact that he tapped into several different linguistic traditions, contexts and resonances. Culturally promiscuous, Karnad tapped into different languages, into myth and folklore, into the classical and the popular, into what was indigenous and what was foreign but only until it had been assimilated — so Yayati, so Hayavadana”
+Alok Rai speaks brilliantly about Karnad when he [says](https://indianexpress.com/article/opinion/columns/girish-karnad-death-plays-tughlaq-theatre-gauri-lankesh-urban-naxal-intolerance-let-me-count-the-ways-5783513/), “Karnad’s monstrous creativity was fuelled by the fact that he tapped into several different linguistic traditions, contexts and resonances. Culturally promiscuous, Karnad tapped into different languages, into myth and folklore, into the classical and the popular, into what was indigenous and what was foreign but only until it had been assimilated — so Yayati, so Hayavadana”
 
 I am writing this partly to remember Karnad and see what he meant for me and the world around me. I am also writing this to remind myself of what me and my hero have in common and that I should never fail him (I am sure, he is looking at me). Despite all the similarities I mentioned in this essay, the list is finite and tends to be more about the circumstances, social and familial. There are large and small areas of literary criticism, politics, sociology and other fields I disagree with the great Karnad on. I learnt the irreverence partly for him, but I can not help be reverent to my hero.
 
