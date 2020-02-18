@@ -65,4 +65,5 @@ I met Karnad at Ranga Shankara, Bengaluru in 2018. I bowed down and put my foreh
 
 Post Script: 
 
-Guha does an amazing job here of illuminating aspects of our multilingual traditions. My favourite lines: “… Ambedkar knew his Tukaram, but also his John Stuart Mill. (C Rajagopalachari).. knew his Kural, but – as he once reminded an interviewer – he had also read Thoreau. V D Savarkar also wrote books in English, as well as plays and polemical tracts in Marathi.”
+Guha does an amazing job here of illuminating aspects of our multilingual traditions. My favourite lines: 
+> … Ambedkar knew his Tukaram, but also his John Stuart Mill. (C Rajagopalachari).. knew his Kural, but – as he once reminded > an interviewer – he had also read Thoreau. V D Savarkar also wrote books in English, as well as plays and polemical tracts in Marathi.
