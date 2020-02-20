@@ -29,12 +29,12 @@ I grew up speaking Marathi and Kannada (specifically North Karnataka dialect). T
 
 Malli in this brilliant Newslaundry article [writes](https://www.newslaundry.com/2019/06/15/girish-karnad-and-the-death-of-literary-multilingual-heritage), “Three out of Kannada’s eight Jnanpith awardees, including Karnad, spoke a language other than Kannada at home.” The ability to think in multiple languages and cultures is so important in days when we live in constant fear of isolation, either enforced by ourselves or through an authority from the centre. 
 
-We should let more Indians which languages they want to learn and live in, rather than enforcing languages that were deemed fit by some in power. (Be rest assured, the irony of me writing this in English is not lost on me.)
+We should let all Indians choose which languages they want to learn and live in, rather than enforcing languages that were deemed fit by some in power. (Be rest assured, the irony of me writing this in English is not lost on me.)
 
 
 ### Healthy Dose of Dr. Bendre
 
-Karnad was more fortunate that he had a close relationship with Bendre. One can only imagine the conversations of two great minds. Bendre himself spoke Kannada and Marathi. I grew up on “Banthanna Sanna Somavara, Kanabekanna Someswara” and many of his poems that still form a central part of my poetic aesthetics. Bendre, I think, is one of the greatest poet ever. You can read English translations of Bendre [here](https://darabendreinenglish.com/tag/bendre-in-english/). (highly recommended website for Bendre lovers)
+Karnad was much more fortunate that he had a close relationship with Bendre. One can only imagine the conversations of two great minds. Bendre himself spoke Kannada and Marathi. I grew up on “Banthanna Sanna Somavara, Kanabekanna Someswara” and many of his poems that still form a central part of my poetic aesthetics. Bendre, I think, is one of the greatest poets ever. You can read English translations of Bendre [here](https://darabendreinenglish.com/tag/bendre-in-english/). (highly recommended website for Bendre lovers)
 
 
 ### North Karnataka - Maharashtra connection
@@ -58,7 +58,7 @@ In a documentary, he even [referred](https://www.youtube.com/watch?v=QrZbHcq3ohg
 
 Alok Rai speaks brilliantly about Karnad when he [says](https://indianexpress.com/article/opinion/columns/girish-karnad-death-plays-tughlaq-theatre-gauri-lankesh-urban-naxal-intolerance-let-me-count-the-ways-5783513/), “Karnad’s monstrous creativity was fuelled by the fact that he tapped into several different linguistic traditions, contexts and resonances. Culturally promiscuous, Karnad tapped into different languages, into myth and folklore, into the classical and the popular, into what was indigenous and what was foreign but only until it had been assimilated — so Yayati, so Hayavadana”
 
-I am writing this partly to remember Karnad and see what he meant for me and the world around me. I am also writing this to remind myself of what me and my hero have in common and that I should never fail him (I am sure, he is looking at me). Despite all the similarities I mentioned in this essay, the list is finite and tends to be more about the circumstances, social and familial. There are large and small areas of literary criticism, politics, sociology and other fields I disagree with the great Karnad on. I learnt the irreverence partly for him, but I can not help be reverent to my hero.
+I am writing this partly to remember Karnad and see what he meant for me and the world around me. I am also writing this to remind myself of what me and my hero have in common and that I should never fail him (I am sure, he is looking at me). Despite all the similarities I mentioned in this essay, the list is finite and tends to be more about the circumstances, social and familial. There are large and small areas of literary criticism, politics, sociology and other fields I disagree with the great Karnad on. I learnt the irreverence partly from him, but I can not help be reverent to my hero.
 
 I met Karnad at Ranga Shankara, Bengaluru in 2018. I bowed down and put my forehead to his feet and blurted out something I cant remember. He was generous enough to give his autograph and then he left in his white Omni. I will remember this encounter and the man forever.
 
