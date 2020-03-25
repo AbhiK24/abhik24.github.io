@@ -4,7 +4,7 @@ title: "What Survives This Pandemic And What Will Change Forever - Part 1"
 date: 2020-03-26
 ---
 
-![Future](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-_h1ty-gazKim7WtT42kz2TxEi0W87d6mSt4GCYc0oAWZ0HGx)
+![Future](https://cdni.rt.com/files/2016.12/article/584955ebc36188f1598b4628.jpg)
 
 
 I have a question that I am asking all the economists, epidemiologists, scientists, policy makers and any every businessman and or thinker I know or can get in touch with, and it is this:
