@@ -4,7 +4,7 @@ title: "The Sculptor In The Dark"
 date: 2020-03-30
 ---
 
-![Ram](https://cdn.kastatic.org/ka-perseus-images/92f80ab3534af89c8c6e8fe7c87d3eb3dcdbcc61.jpg)
+![Shiva](https://github.com/AbhiK24/abhik24.github.io/blob/master/shiva.jpg)
 
 I recently visited Ruins of Hampi in Karnataka. For some it is only a historic site, for me its both historic and religious. The Virupaksha temple in Hampi and Pattadkal are maybe the closest to my heart. While visiting the magnificent temples and the ruins of palaces I was struck by the attention to detail in each and every corner of those structures. There was a moment in the Hazara Rama Temple where I remembered a story told by mother when I was indeed very young (somewhere around 5-6 years old). 
 
