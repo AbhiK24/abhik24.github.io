@@ -32,12 +32,16 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
 	    
-    <div class="sidebar">
-    <a class="active" href="#home">Home</a>
-    <a href="#blog"> Blog </a>
-    <a href="#contact"> Home </a>
-    <a href="www.getparva"> Checkout Parva </a>
-    </div>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="topnav" id="myTopnav">
+  <a href="blog" class="active"> Blog </a>
+  <a href="abhik24.github.io" > Home </a>
+  
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
