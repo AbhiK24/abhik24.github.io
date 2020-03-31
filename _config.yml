@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 title: Abhijeet Katte
 description: Abhijeet Katte
 name: Abhijeet Katte
@@ -5,4 +6,3 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 layout: default
 comments: true
-theme: jekyll-theme-cayman
