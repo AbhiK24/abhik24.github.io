@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Sculptor In The Dark"
+description: A simple story for a simple life.
 date: 2020-03-30
 ---
 
