@@ -5,4 +5,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 layout: default
 comments: true
-theme: jekyll-cayman-theme
+theme: jekyll-theme-cayman
