@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Abhijeet Katte
-description: Abhijeet Katte
+description: Abhijeet Katte storing his writings and other resources
 name: Abhijeet Katte
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
