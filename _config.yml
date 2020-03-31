@@ -1,5 +1,6 @@
-
-name: Abhijeet Katte, struggling data scientist
+title: Abhijeet Katte
+description: Abhijeet Katte
+name: Abhijeet Katte
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 layout: default
