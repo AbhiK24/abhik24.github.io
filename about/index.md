@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Abhijeet Katte, data scientist
----
+title: Abhijeet Katte
+description: data scientist, entrepreneur, writer
+------
 <div class="blurb">
 	
 	<br>
