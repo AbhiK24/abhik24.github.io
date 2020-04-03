@@ -5,10 +5,10 @@ description: Prize for doing useful practical work for solving problems.
 date: 2020-03-30
 ---
 
-![DBATU]()
+![DBATU](./DBATU.png)
 
 
-In 2017, I with some of my closest friends started a prize (with money attached) to incentivise creation of good B.Tech Projects. The prize was named "AWK Prize For Best Bachelor Thesis."
+In 2017, I with some of my closest friends started a prize (with money attached) to incentivise creation of good B.Tech Projects at our university, Dr. Babasaheb Ambedkar Technological University, Lonere. The prize was named "AWK Prize For Best Bachelor Thesis."
 
 Over time we have realised that the incentive should be given to younger students who are in the learning system, so we have made some changes recently. 
 
@@ -25,3 +25,6 @@ Here are the details:
 4. The prize winners and the runners up student/group might be given an internship opportunity.
 
 5. The prize money will be awarded directly to the students/groups. We will make use of the ACES bank account to route the prize money, to make sure the incentives are delivered on time.
+
+
+The comment section of this post can be used by students to ask questions and get their doubts cleared.
