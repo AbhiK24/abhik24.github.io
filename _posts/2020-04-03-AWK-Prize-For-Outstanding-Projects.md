@@ -5,9 +5,8 @@ description: Prize for doing useful practical work for solving problems.
 date: 2020-03-30
 ---
 
-<img src="DBATU.png">
 
-![DBATU](./DBATU.png)
+![DBATU](https://raw.githubusercontent.com/AbhiK24/abhik24.github.io/master/DBATU.png)
 
 
 In 2017, I with some of my closest friends started a prize (with money attached) to incentivise creation of good B.Tech Projects at our university, Dr. Babasaheb Ambedkar Technological University, Lonere. The prize was named "AWK Prize For Best Bachelor Thesis."
