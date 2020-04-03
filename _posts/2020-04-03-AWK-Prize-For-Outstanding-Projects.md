@@ -27,5 +27,13 @@ Here are the details:
 
 5. The prize money will be awarded directly to the students/groups. We will make use of the ACES bank account to route the prize money, to make sure the incentives are delivered on time.
 
+Funding committee:
+1. Abhijeet Katte
+2. Swati Waghmare
+3. Dipesh Khatate
+4. Chaitanya Jadhav
+5. Priyanka Ghanvat
+6. Vipul Patil
+7. Shweta Badhe
 
 The comment section of this post can be used by students to ask questions and get their doubts cleared.
