@@ -5,6 +5,8 @@ description: Prize for doing useful practical work for solving problems.
 date: 2020-03-30
 ---
 
+<img src="./DBATU.png">
+
 ![DBATU](./DBATU.png)
 
 
