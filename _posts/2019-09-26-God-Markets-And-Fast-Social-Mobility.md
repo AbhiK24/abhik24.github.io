@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "God, Markets, And Fast Social Mobility"
+description: On finding the new religion, and inserting market innovation into things we left to the government and others.
 date: 2019-09-26
 ---
 ![God, Markets and Fast Social Mobility](https://www.advisoryexcellence.com/wp-content/uploads/2018/07/Social-Mob-PHOTO.jpg)
