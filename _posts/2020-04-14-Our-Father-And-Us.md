@@ -5,7 +5,7 @@ description: The Inspiring story of Dr. Narendra Jadhav and the book that influe
 date: 2020-04-14
 ---
 
-![Dr. Narendra Jadhav](http://www.drnarendrajadhav.info/default_files/jadhav-522x337.jpg)
+![Dr. Narendra Jadhav](https://images.indianexpress.com/2018/07/narendra-jadhav-1.jpg)
 
 This great book [titled](https://www.indiatoday.in/magazine/society-the-arts/books/story/19951031-a-book-on-how-an-unlettered-dalit-inspired-his-children-to-excel-in-life-wins-wide-acclaim-806808-1995-10-31) Amcha Baapani Amhi (Our Father and Us), "the book, written in Marathi, is a moving tribute to a father from his children. But it is also an evocative portrayal of how an unlettered Dalit inspired his children to reach for the stars. That inspiration came from within, largely based on his experience of life at the very bottom of a caste-conscious society."
 
