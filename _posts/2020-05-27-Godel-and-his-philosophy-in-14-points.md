@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Godel and his philosophy"
+title: "Godel And His Philosophy"
 description: Godel lays down is his philosophy in 14 points. 
 date: 2020-05-27
 ---
