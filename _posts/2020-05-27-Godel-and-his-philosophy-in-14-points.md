@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Godel And His Philosophy"
-description: Godel lays down is his philosophy in 14 points. 
+description: Godel lays down his philosophy in 14 points. 
 date: 2020-05-27
 ---
 
 ![Godel](https://www.thevintagenews.com/wp-content/uploads/2019/09/kurt_godel.jpg)
 
-Gödel left in his papers a fourteen-point outline of his philosophical beliefs,that are dated around 1960. They show his deep belief in the rational structure of the world. Here are his 14 points: 1
+Gödel left in his papers a fourteen-point outline of his philosophical beliefs,that are dated around 1960. They show his deep belief in the rational structure of the world. Here are his 14 points: 
 
 1.The world is rational.
 
