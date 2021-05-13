@@ -42,13 +42,6 @@
 	    
      </header>
 
-      <div id="menu">
-         <ul>
-       
-          <li><a href="/Talks">My Talks</a><li>
-   
-         </ul>
-         </div>        
 
     <main id="content" class="main-content" role="main">
       <br>
@@ -59,20 +52,20 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        <span class="site-footer-credits"> See what I am working on, here <a href="https://www.getparva.com">Parva</a>.</span>
+	      
+      <menu type="context" id="popup-menu">
+      <menuitem> <a href="/Talks">My Talks</a> </menuitem>	      
+      <menuitem> <a href="/GreatBlogs">Great Blogs</a> </menuitem>
+      <menuitem> <a href="/Travel">Travel</a> </menuitem>
+      <menuitem> <a href="/RecommendedBooks">Recommended Books</a> </menuitem>	  
+      <menuitem> <a href="/Underrated">Underrated</a> </menuitem>
+      </menu>	
+        
       </footer>
     </main>
   </body>
 </html>
 
 
-		   <li><a href="/GreatBlogs">Great Blogs</a></li>
-          <li><a href="/Travel">Travel</a></li>
-          <li><a href="/Culture">Culture</a></li> 
-          <li><a href="/RecommendedBooks">Recommended Books</a></li> 
-          <li><a href="/Underrated">Underrated</a></li>
-			
-	    		
-			
-		
+		  
 	
