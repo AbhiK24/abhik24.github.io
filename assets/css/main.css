@@ -54,10 +54,10 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p { 
-    font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
-    font-size: 1em;
+    font-family: "Spectral";
+    font-size: 0.8em;
     line-height: 1.1em;
-    color: #333;
+    color: #000000;
     text-align: left;
 
 }
