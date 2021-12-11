@@ -7,6 +7,7 @@ date: 2021-12-11
 
 ![The Disciple](https://raw.githubusercontent.com/AbhiK24/abhik24.github.io/master/Brody-TheDisciple.jpg)
 
+......................................................................................
 
 *Stavrogin*: . . . in the Apocalypse the angel swears that there will be no more time.
 
@@ -18,8 +19,7 @@ date: 2021-12-11
 
 — F. Dostoevsky, *The Possessed*
 
-
-
+......................................................................................
 
 Chaitanya Tamhane’s *The Disciple* is a slow knife pierce straight into one’s heart. It starts with a prick, goes in to pierce flesh and before you know, knife is turning into your heart in a rotating motion.
 
@@ -29,14 +29,17 @@ The first thing you notice or are awakened to in Tamhane’s films is that proba
  
 Tamhane once mentioned that he is fascinated by on stage magic and spends a lot of time understanding the art. Dadasaheb Phalke the father of Indian Cinema in many regards also learned magic from some German magicians and started performing under the name of “Professor Kelpha”. Another prolific auteur Satyajit Ray, also performed magic on sets of his cinema. 
 
+![Mirror](https://raw.githubusercontent.com/AbhiK24/abhik24.github.io/master/the-mirror-1200-1200-675-675-crop-000000.jpg)
+
 I am not sure how much Tamhane started following magic and bringing the art into his cinema because of Phalke and Ray but surely there is something to be said about the continued marriage of these amazing art forms. Magic as an art form is so much about breaking down of walls between the performer and the audience, the invitation to enter another realm and most importantly according to Tamhane, “the management of expectations.”
 
 Another pivotal tool in Tamhane’s film making is time. Andrei Tarkovsky says, “ .. time becomes the very foundation of cinema: as sound is in music, colour in painting, character in drama.” . The best way to think about cinema is not to compare it to paintings, literature or even photography. The best way to think about cinema is to compare it with time based arts like music or ballet. Think about it, the activity of reading a book is not bound by time. You can essentially create your own rhythm while reading a book. In cinema and in music, the creator is a dictator of time aspects of the creation and the consumer also consumes the maker’s impression of time.
 
-I love cinema, mostly because they deal in time first. And it deals in architecture, design, and a constrained environment. “Time, captured in its factual forms and manifestations: such is
-the supreme idea of cinema as an art.”, said Tarkovsky.
+I love cinema, mostly because they deal in time first. And it deals in architecture, design, and a constrained environment. “Time, captured in its factual forms and manifestations: such is the supreme idea of cinema as an art.”, said Tarkovsky.
 
 To follow this logic of cinema making to its end is to see which film maker has a distinctive brand of time-flow through their cinema and convince the watcher to sympathise with the maker’s time-flow or make it his (or her) own. At this point you can also ask yourself a question of which film or film maker makes your seconds spent watching frames on a screen more feel more sacred? What films make your second count and do scenes presented to you have optimal time-pressure?
+
+![Cure](https://raw.githubusercontent.com/AbhiK24/abhik24.github.io/master/cure_02.jpg)
 
 I feel *The Disciple* has a distinct time pressure and a very excellent impression of time. *The Disciple* ventures out to build an inner world of Hindustani classical music for the watcher to inhabit. We are being introduced to the intricacies of the world through the eyes of Sharad Nerulkar and through the voice of  “Maai”. Some scenes where Sharad and his Guru are performing, the long takes, help us set the pace and establish in our minds the distinctive time-flow of Tamhane. We are made acutely aware of the “mood” of the auditorium where Sharad is taking part of in a competition. We are made aware of Sharad’s preparation the night before through single long takes where we are barely allowed to leave Sharad alone. Sharad stays with us and we get the opportunity to take part in his anxiety and nerves.
 
@@ -47,6 +50,9 @@ What now happens is that the watcher starts living the character and what “hap
 The beauty of *The Disciple* is that it constantly pins us to the present moment and forces us to ask questions of ourselves and what would we like to happen next? The beauty of a move like *The Disciple* is that the character is the story and the “actions” and “events” happening are now continuous/deep and not discrete/uninteresting new information. The tyranny of the narrative basically snatches and thieves time from us, we give up space, we give up “being in” the cinema. *The Disciple* hence can be somewhat called “post-narrative”?
 
 Another interesting observation about *The Disciple* I feel is that it is deeply situated in a subculture and a community. The characters deeply resemble personas in the Hindustani music subculture and the act of movie making for Tamhane feels more like artistic documentation and observation than “staging” of a story. The style Tamhane chooses to document a slice of the large subculture also helps the movie to live on for a much more longer time and space. This is an underrated quality of a film like ‘The Disciple’.
+
+![In The Mood For Love](https://raw.githubusercontent.com/AbhiK24/abhik24.github.io/master/MV5BNGIyMGQ4NjMtNDQ5My00ZGIyLWExMjAtODY2OGQzNmIwYzk3XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg)
+
 
 Of course there is a lot more to be said here about what the films other themes like ambition, the act of surrendering to a mission, purity of musical endeavours, the search for life long partnerships, listening to and adhering to voices not your own, how much to follow your Guru and when to chart an independent path, and many many others. Each of these themes deserve a separate investigations on their own.
 
