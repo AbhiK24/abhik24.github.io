@@ -7,7 +7,6 @@ date: 2021-12-11
 
 ![The Disciple](https://raw.githubusercontent.com/AbhiK24/abhik24.github.io/master/Brody-TheDisciple.jpg)
 
-......................................................................................
 
 > *Stavrogin*: . . . in the Apocalypse the angel swears that there will be no more time.
 
@@ -19,7 +18,6 @@ date: 2021-12-11
 
 > — F. Dostoevsky, *The Possessed*
 
-......................................................................................
 
 Chaitanya Tamhane’s *The Disciple* is a slow knife pierce straight into one’s heart. It starts with a prick, goes in to pierce flesh and before you know, knife is turning into your heart in a rotating motion.
 
