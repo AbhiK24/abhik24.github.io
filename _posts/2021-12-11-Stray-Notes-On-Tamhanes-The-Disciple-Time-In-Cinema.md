@@ -9,15 +9,15 @@ date: 2021-12-11
 
 ......................................................................................
 
-*Stavrogin*: . . . in the Apocalypse the angel swears that there will be no more time.
+> *Stavrogin*: . . . in the Apocalypse the angel swears that there will be no more time.
 
-*Kirillov*: I know. It's quite true, it's said very clearly and exactly. When the whole of man has achieved happiness, there won't be any time, because it won't be needed. It's perfectly true.
+> *Kirillov*: I know. It's quite true, it's said very clearly and exactly. When the whole of man has achieved happiness, there won't be any time, because it won't be needed. It's perfectly true.
 
-*Stavrogin*: Where will they put it then?
+> *Stavrogin*: Where will they put it then?
 
-*Kirillov*: They won't put it anywhere. Time isn't a thing, it's an idea. It'll die out in the mind.
+> *Kirillov*: They won't put it anywhere. Time isn't a thing, it's an idea. It'll die out in the mind.
 
-— F. Dostoevsky, *The Possessed*
+> — F. Dostoevsky, *The Possessed*
 
 ......................................................................................
 
