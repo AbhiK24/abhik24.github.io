@@ -74,8 +74,10 @@ Things I have not spoken about in this essay that I would have liked to talk abo
 2. Realism in literature and parallels in cinema
 
 
+References:
 
-
+1. [Sculpting in Time](https://www.amazon.in/Sculpting-Time-Reflections-Andrey-Tarkovsky/dp/0292776241)
+2. Movies "Court" and "The Disciple" can be found on Netflix. 
 
 
 
