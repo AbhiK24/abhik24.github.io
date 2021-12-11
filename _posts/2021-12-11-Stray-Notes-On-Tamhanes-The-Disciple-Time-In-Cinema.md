@@ -5,7 +5,7 @@ description: Time, Cinema and Inviting The Viewer In.
 date: 2021-12-11
 ---
 
-![The Disciple](https://raw.githubusercontent.com/AbhiK24/abhik24.github.io/master/1339163_thediscipleofficialstill_326285.jpg)
+![The Disciple](https://raw.githubusercontent.com/AbhiK24/abhik24.github.io/master/Brody-TheDisciple.jpg)
 
 
 *Stavrogin*: . . . in the Apocalypse the angel swears that there will be no more time.
@@ -19,11 +19,13 @@ date: 2021-12-11
 — F. Dostoevsky, *The Possessed*
 
 
+
+
 Chaitanya Tamhane’s *The Disciple* is a slow knife pierce straight into one’s heart. It starts with a prick, goes in to pierce flesh and before you know, knife is turning into your heart in a rotating motion.
 
-This essay is a random, uneducated and quite rough collection of thoughts on ‘The Disciple’ and as an extension the notion of time in cinema. This is not a “criticism” or a “review” of the movie either.
+This essay is a random, uneducated and quite rough collection of thoughts on *The Disciple* and as an extension the notion of time in cinema. This is not a “criticism” or a “review” of the movie either.
 
-The first thing you notice or are awakened to in Tamhane’s films is that probably no one is acting. It is not a co-incidence that his actors seem less like professionals but ordinary people told to repeat their daily lives in front of a camera in an artistic setting. His on screen activists don’t have to imagine how it feels like to care about a cause. The Guru in The Disciple doesn’t need a lesson on devotion and how to feel about his own Guru. Most of the lead characters have “been there, done that” and are doing it once again for our sake. Personally for me, this works brilliantly.
+The first thing you notice or are awakened to in Tamhane’s films is that probably no one is acting. It is not a co-incidence that his actors seem less like professionals but ordinary people told to repeat their daily lives in front of a camera in an artistic setting. His on screen activists don’t have to imagine how it feels like to care about a cause. The Guru in *The Disciple*  doesn’t need a lesson on devotion and what to feel about his own Guru. Most of the lead characters have “been there, done that” and are doing it once again for our sake. Personally for me, this works brilliantly.
  
 Tamhane once mentioned that he is fascinated by on stage magic and spends a lot of time understanding the art. Dadasaheb Phalke the father of Indian Cinema in many regards also learned magic from some German magicians and started performing under the name of “Professor Kelpha”. Another prolific auteur Satyajit Ray, also performed magic on sets of his cinema. 
 
